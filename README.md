@@ -1,5 +1,5 @@
 # thyroid-disease-classification
-# Thyroid Disease Classification with Random Forest
+# Random Forest ile Tiroid Hastalığını Sınıflandırma
 
 Bu projede UCI Machine Learning Repository üzerinde yer alan Thyroid0387 veri seti kullanılarak tiroid hastalığı sınıflandırması yapılmıştır.
 
