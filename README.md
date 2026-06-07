@@ -1,4 +1,16 @@
 # thyroid-disease-classification
+## Proje Raporu
+
+Proje raporuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[BLM463 Proje Raporu - PDF](./BLM463_Proje_EsmaBilen_23360859035.pdf)
+
+## Proje Videosu
+
+Projenin anlatım videosuna aşağıdaki YouTube bağlantısından ulaşabilirsiniz:
+
+[Proje Tanıtım Videosu](https://www.youtube.com/watch?v=RlZ-wynyOAc)
+
 # Random Forest ile Tiroid Hastalığını Sınıflandırma
 
 Bu projede UCI Machine Learning Repository üzerinde yer alan Thyroid0387 veri seti kullanılarak tiroid hastalığı sınıflandırması yapılmıştır.
